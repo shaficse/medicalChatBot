@@ -232,7 +232,14 @@ In summary, while the Seq2Seq model may excel in certain metrics like ROUGE scor
 
 <img src="figures/app4.png"> 
 
+### Demo Video
+
+Click the image below to watch a demo of the Medical Chatbot in action. The video demonstrates key features and functionalities, showcasing how users can interact with the chatbot to receive personalized medical advice.
+
 [![Watch the Demo Video](https://img.youtube.com/vi/GxBVfwNMgaA/0.jpg)](https://www.youtube.com/watch?v=GxBVfwNMgaA)
+
+This demo provides a visual guide to the capabilities of our chatbot, illustrating its user-friendly interface and how it processes and responds to various user queries.
+
 
 ---
 
